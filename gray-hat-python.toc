@@ -1,0 +1,32 @@
+\select@language {russian}
+\contentsline {chapter}{\numberline {1}Настройка рабочего окружения}{5}{chapter.1}
+\contentsline {section}{Intro}{5}{section*.3}
+\contentsline {section}{\numberline {1.1}Требования к системе}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Получение и установка Python 2.5}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Установка Python в Windows}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Установка Python в Linux}{7}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Настройка среды Eclipse и PyDev}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Лучшие друзья Хакера: ctypes}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Использование динамических библиотек}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Конструирование типов данных C}{13}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Передача параметров по ссылке}{15}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Определение структур и объединений}{15}{subsection.1.3.5}
+\contentsline {chapter}{\numberline {2}Отладчики и устройство отладчика}{19}{chapter.2}
+\contentsline {section}{Intro}{19}{section*.5}
+\contentsline {section}{\numberline {2.1}Регистры общего назначения центрального процессора}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Стек}{23}{section.2.2}
+\contentsline {section}{\numberline {2.3}События отладчика}{26}{section.2.3}
+\contentsline {section}{\numberline {2.4}Точки останова}{27}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Программные точки останова}{27}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Аппаратные точки останова}{31}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Точки останова памяти}{33}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}Создание отладчика под Windows}{37}{chapter.3}
+\contentsline {chapter}{\numberline {4}PyDbg - Windows отладчик на чистом Python}{38}{chapter.4}
+\contentsline {chapter}{\numberline {5}Immunity Debugger}{39}{chapter.5}
+\contentsline {chapter}{\numberline {6}Hooking}{40}{chapter.6}
+\contentsline {chapter}{\numberline {7}DLL и Code Injection}{41}{chapter.7}
+\contentsline {chapter}{\numberline {8}Fuzzing}{42}{chapter.8}
+\contentsline {chapter}{\numberline {9}Sulley}{43}{chapter.9}
+\contentsline {chapter}{\numberline {10}Фаззинг драйверов Windows}{44}{chapter.10}
+\contentsline {chapter}{\numberline {11}IDAPython}{45}{chapter.11}
+\contentsline {chapter}{\numberline {12}PyEmu}{46}{chapter.12}

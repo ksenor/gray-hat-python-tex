@@ -1,0 +1,38 @@
+This is METAFONT, Version 2.718281 (TeX Live 2009/Debian) (base=mf 2012.9.20)  20 SEP 2012 01:51
+**\mode:=ljfour; mag:=1; nonstopmode; input lasl1000
+(/home/ks/.texmf-var/fonts/source/lh/lh-t2a/lasl1000.mf
+(/usr/share/texmf-texlive/fonts/source/lh/base/fikparm.mf
+(/usr/share/texmf-texlive/fonts/source/public/cm/cmbase.mf)
+(/usr/share/texmf-texlive/fonts/source/lh/base/lcyrbeg.mf)
+(/usr/share/texmf-texlive/fonts/source/lh/base/lkligtbl.mf)
+>> 10
+>> "input ecsl"
+! I can't find file `ecsl'.
+<scantokens> input ecsl
+                       
+<to be read again> 
+                   ;
+use_driver->...#=pt#;pt#:=true_pt#;scantokens(ss);
+                                                  pt#:=true_pt#;font_identif...
+l.304 use_driver(fonteq)
+                        ;
+Please type another input file name
+! Emergency stop.
+<scantokens> input ecsl
+                       
+<to be read again> 
+                   ;
+use_driver->...#=pt#;pt#:=true_pt#;scantokens(ss);
+                                                  pt#:=true_pt#;font_identif...
+l.304 use_driver(fonteq)
+                        ;
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of METAFONT's memory you used:
+ 437 strings out of 5275
+ 4170 string characters out of 70080
+ 25403 words of memory out of 3000000
+ 1335 symbolic tokens out of 9500
+ 5i,80n,0r,4p,185b stack positions out of 300i,300n,1000r,150p,200000b
+

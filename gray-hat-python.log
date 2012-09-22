@@ -1,0 +1,1408 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.20)  22 SEP 2012 17:39
+entering extended mode
+ %&-line parsing enabled.
+**\nonstopmode\input gray-hat-python.tex
+(./gray-hat-python.tex (/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-texlive/tex/generic/babel/russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+
+Package babel Warning: No input encoding specified for Russian language on inpu
+t line 136.
+
+Package babel Info: Making " an active character on input line 199.
+)) (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count91
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+\Field@toks=\toks15
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+)
+(/usr/share/texmf-texlive/tex/latex/bclogo/bclogo.sty
+Package: bclogo 2009/09/09 v2.24
+
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+\XKV@depth=\count96
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\logowidth=\skip43
+
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box26
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count97
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen109
+\pgf@y=\dimen110
+\pgf@xa=\dimen111
+\pgf@ya=\dimen112
+\pgf@xb=\dimen113
+\pgf@yb=\dimen114
+\pgf@xc=\dimen115
+\pgf@yc=\dimen116
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count98
+\c@pgf@countb=\count99
+\c@pgf@countc=\count100
+\c@pgf@countd=\count101
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count102
+\pgfsyssoftpath@bigbuffer@items=\count103
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen117
+\pgfmath@count=\count104
+\pgfmath@box=\box27
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count105
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen118
+\pgf@picmaxx=\dimen119
+\pgf@picminy=\dimen120
+\pgf@picmaxy=\dimen121
+\pgf@pathminx=\dimen122
+\pgf@pathmaxx=\dimen123
+\pgf@pathminy=\dimen124
+\pgf@pathmaxy=\dimen125
+\pgf@xx=\dimen126
+\pgf@xy=\dimen127
+\pgf@yx=\dimen128
+\pgf@yy=\dimen129
+\pgf@zx=\dimen130
+\pgf@zy=\dimen131
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen132
+\pgf@path@lasty=\dimen133
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen134
+\pgf@shorten@start@additional=\dimen135
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count106
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen136
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen137
+\pgf@pt@y=\dimen138
+\pgf@pt@temp=\dimen139
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen140
+\pgf@sys@shading@range@num=\count107
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box31
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box32
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen141
+\pgf@nodesepend=\dimen142
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen143
+\pgffor@skip=\dimen144
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count108
+\pgfplotmarksize=\dimen145
+)
+\tikz@lastx=\dimen146
+\tikz@lasty=\dimen147
+\tikz@lastxsaved=\dimen148
+\tikz@lastysaved=\dimen149
+\tikzleveldistance=\dimen150
+\tikzsiblingdistance=\dimen151
+\tikz@figbox=\box33
+\tikz@tempbox=\box34
+\tikztreelevel=\count109
+\tikznumberofchildren=\count110
+\tikznumberofcurrentchild=\count111
+\tikz@fig@count=\count112
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count113
+\pgfmatrixcurrentcolumn=\count114
+\pgf@matrix@numberofcolumns=\count115
+)
+\tikz@expandcount=\count116
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshado
+ws.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v2.10 (rcs-revision 1.3)
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadin
+gs.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v2.10 (rcs-revision 1.2)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v2.10 (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.pathmorphing.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.code.tex
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen152
+\pgfdecoratedremainingdistance=\dimen153
+\pgfdecoratedinputsegmentcompleteddistance=\dimen154
+\pgfdecoratedinputsegmentremainingdistance=\dimen155
+\pgf@decorate@distancetomove=\dimen156
+\pgf@decorate@repeatstate=\count117
+\pgfdecorationsegmentamplitude=\dimen157
+\pgfdecorationsegmentlength=\dimen158
+)
+\tikz@lib@dec@box=\box35
+)
+(/usr/share/texmf/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.p
+athmorphing.code.tex))
+\c@bclogocompteur=\count118
+\val@epBarre=\skip44
+\val@framesep=\skip45
+\val@tailleOndu=\skip46
+\val@borderWidth=\skip47
+\envbox=\box36
+\invbox=\box37
+\invboxh=\skip48
+\invboxd=\skip49
+) (./gray-hat-python.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 15.
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `gray-hat-python.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Package hyperref Info: Link coloring OFF on input line 6.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+
+(./gray-hat-python.out) (./gray-hat-python.out)
+\@outlinefile=\write4
+\openout4 = `gray-hat-python.out'.
+
+\AtBeginShipoutBox=\box38
+
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen159
+\scratchbox=\box39
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen160
+\MPnumerator=\count124
+\everyMPtoPDFconversion=\toks28
+)
+! Undefined control sequence.
+l.11 \HRule
+            \\[0.4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \HRule \\
+              [0.4cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.13 \HRule
+            \\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \HRule \\
+              [1.5cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \newpage
+              [1]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[2] (./gray-hat-python.toc [3
+
+])
+\tf@toc=\write5
+\openout5 = `gray-hat-python.toc'.
+
+ [4]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 58.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[5
+
+]
+Package hyperref Info: bookmark level for unknown bclogo defaults to 0 on input
+ line 74.
+ <bc-fleur.pdf, id=215, 27.302pt x 38.544pt>
+File: bc-fleur.pdf Graphic file (type pdf)
+ <use bc-fleur.pdf>
+! Undefined control sequence.
+l.82 ...вки. Установщик создаст каталог 'C:\Python
+                                                  25\'. В этом каталоге буду...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (2.87427pt too wide) in paragraph at lines 82--84
+\T2A/cmr/m/n/12 Debugger для мно-гих за-дач, по-это-му вы мо-же-те "убить двух 
+зай-цев"одной
+ []
+
+[6 </usr/share/texmf-texlive/tex/latex/bclogo/bc-fleur.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (12.07397pt too wide) in paragraph at lines 97--99
+\T2A/cmr/m/n/12 Вы толь-ко что ска-ча-ли и рас-па-ко-ва-ли ис-ход-ный код в '/u
+sr/local/Python25'.
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 109--109
+[]\T2A/cmtt/m/n/12 Type "help", "copyright", "credits" or "license" for more in
+formation.[] 
+ []
+
+[7]
+! Undefined control sequence.
+l.124 ...е переменной" в конце дописать ;C:\Python
+                                                  25. Далее проверяем в кома...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+! Undefined control sequence.
+l.133 Распаковываете его в "C:\Eclipse
+                                      ".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 Запускаете C:\Eclipse
+                           \eclipse.exe.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 Запускаете C:\Eclipse\eclipse
+                                   .exe.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--144
+
+ []
+
+[8]
+! Undefined control sequence.
+l.149 Укажите путь в Browse: "C:\Python
+                                       25\python.exe" и кликните Open;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.149 Укажите путь в Browse: "C:\Python25\python
+                                                .exe" и кликните Open;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[10]
+! Undefined control sequence.
+l.172 ...vcrt.dll, находящемся в папке 'C:\WINDOWS
+                                                  \System32\', а в Linux это...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.172 ...l, находящемся в папке 'C:\WINDOWS\System
+                                                  32\', а в Linux это libc.s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 193--194
+\T2A/cmr/m/n/12 де-лен-ную функ-цию. Оно вклю-ча-ет в се-бя по-ря-док то-го, ка
+к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+File: bc-fleur.pdf Graphic file (type pdf)
+<use bc-fleur.pdf>
+Overfull \hbox (26.27946pt too wide) in paragraph at lines 229--231
+[] \T2A/cmr/m/n/12 Код: 
+ []
+
+[11]
+Overfull \vbox (134.89792pt too high) has occurred while \output is active []
+
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+<./pic/chap1/1.PNG, id=252, 401.5pt x 387.4475pt>
+File: ./pic/chap1/1.PNG Graphic file (type png)
+ <use ./pic/chap1/1.PNG>
+Overfull \hbox (11.49901pt too wide) in paragraph at lines 254--255
+ [] 
+ []
+
+
+Overfull \hbox (116.22638pt too wide) in paragraph at lines 278--278
+[]\T2A/cmtt/m/n/12 Python 2.5 (r25:51908, Sep 19 2006, 09:52:17) [MSC v.1310 32
+ bit (Intel)] on win32[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 278--278
+[]\T2A/cmtt/m/n/12 Type "help", "copyright", "credits" or "license" for more in
+formation.[] 
+ []
+
+[13] [14 <./pic/chap1/1.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.284 ... параметра, вы вызываете её так: fuction_
+                                                  main( byref (parametr) ).\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.285 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+[16]
+Overfull \hbox (60.66495pt too wide) in paragraph at lines 347--347
+[]\T2A/cmtt/m/n/12 value = raw_input("Enter the amount of barley to put into th
+e beer vat:")[] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.359 ...смущает вывод значения переменной barley_
+                                                  char, а именно буква 'B', ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.360 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no а in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no э in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no э in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no я in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no о in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+[18]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 367.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+Overfull \hbox (10.87091pt too wide) in paragraph at lines 372--373
+\T2A/cmr/m/n/12 от-лад-чи-ком бе-ло-го ящика(white-box debugger) и от-лад-чи-ко
+м черного(black-
+ []
+
+
+Overfull \hbox (4.01845pt too wide) in paragraph at lines 372--373
+\T2A/cmr/m/n/12 про-цесс вы-пол-не-ния про-грам-мы, имея ис-ход-ный код, и кон-
+тро-ли-руя очень
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+
+ []
+
+[19
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+[23] <./pic/chap2/1.PNG, id=306, 515.9275pt x 290.08376pt>
+File: ./pic/chap2/1.PNG Graphic file (type png)
+
+<use ./pic/chap2/1.PNG>
+Overfull \hbox (125.92624pt too wide) in paragraph at lines 433--434
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+[24 <./pic/chap2/1.PNG (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+
+ []
+
+<./pic/chap2/2.PNG, id=313, 572.1375pt x 322.20375pt>
+File: ./pic/chap2/2.PNG Graphic file (type png)
+ <use ./pic/chap2/2.PNG>
+Overfull \hbox (182.1361pt too wide) in paragraph at lines 457--458
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+[25 <./pic/chap2/2.PNG (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+
+Overfull \hbox (2.71309pt too wide) in paragraph at lines 476--477
+[]\T2A/cmr/m/n/12 Преимущество от-лад-чи-ка с воз-мож-но-стью со-зда-ния сце-на
+-ри-ев (скрип-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 505--506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+[28] <./pic/chap2/3.PNG, id=331, 584.1825pt x 528.97626pt>
+File: ./pic/chap2/3.PNG Graphic file (type png)
+
+<use ./pic/chap2/3.PNG>
+Overfull \hbox (194.18106pt too wide) in paragraph at lines 521--522
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+[29] [30 <./pic/chap2/3.PNG (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+<./pic/chap2/4.PNG, id=342, 647.41875pt x 652.4375pt>
+File: ./pic/chap2/4.PNG Graphic file (type png)
+ <use ./pic/chap2/4.PNG>
+<./pic/chap2/5.PNG, id=343, 605.26125pt x 166.6225pt>
+File: ./pic/chap2/5.PNG Graphic file (type png)
+ <use ./pic/chap2/5.PNG>
+Overfull \hbox (257.41716pt too wide) in paragraph at lines 552--554
+ [] 
+ []
+
+
+Overfull \hbox (215.25975pt too wide) in paragraph at lines 552--554
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 270.39075pt on input line 555.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--570
+
+ []
+
+[31] [32 <./pic/chap2/4.PNG (PNG copy)> <./pic/chap2/5.PNG (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 582--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
+
+ []
+
+[34] <./pic/chap2/6.PNG, id=361, 683.55376pt x 336.25626pt>
+File: ./pic/chap2/6.PNG Graphic file (type png)
+
+<use ./pic/chap2/6.PNG>
+Overfull \hbox (293.5521pt too wide) in paragraph at lines 596--597
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--605
+
+ []
+
+[35 <./pic/chap2/6.PNG (PNG copy)>] [36]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
+[37
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[38
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[39
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 6.
+[40
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 7.
+[41
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 8.
+[42
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 9.
+[43
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 10.
+[44
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 11.
+[45
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 12.
+[46
+
+] (./gray-hat-python.aux) ) 
+Here is how much of TeX's memory you used:
+ 14279 strings out of 494818
+ 258914 string characters out of 1178666
+ 321666 words of memory out of 3000000
+ 17060 multiletter control sequences out of 15000+50000
+ 17704 words of font info for 38 fonts, out of 3000000 for 9000
+ 212 hyphenation exceptions out of 8191
+ 63i,12n,71p,1213b,634s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt
+1200.600pk> </home/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </ho
+me/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lasl1200.600pk> </home/ks/.texmf-var
+/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/ks/.texmf-var/fonts/pk/ljfour
+/lh/lh-t2a/labx1728.600pk> </home/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1
+200.600pk> </home/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </hom
+e/ks/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1440.600pk> </home/ks/.texmf-var/
+fonts/pk/ljfour/lh/lh-t2a/lacc1728.600pk> </home/ks/.texmf-var/fonts/pk/ljfour/
+lh/lh-t2a/labx2488.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on gray-hat-python.pdf (47 pages, 576025 bytes).
+PDF statistics:
+ 1044 PDF objects out of 1200 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 397 words of extra memory for PDF output out of 10000 (max. 10000000)
+

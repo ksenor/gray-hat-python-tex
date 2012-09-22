@@ -1,0 +1,31 @@
+\BOOKMARK [0][-]{chapter.1}{Настройка рабочего окружения}{}
+\BOOKMARK [1][-]{section*.3}{Intro}{chapter.1}
+\BOOKMARK [1][-]{section.1.1}{Требования к системе}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Получение и установка Python 2.5}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.2.1}{Установка Python в Windows}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.2}{Установка Python в Linux}{section.1.2}
+\BOOKMARK [1][-]{section.1.3}{Настройка среды Eclipse и PyDev}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.3.1}{Лучшие друзья Хакера: ctypes}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.2}{Использование динамических библиотек}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.3}{Конструирование типов данных C}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.4}{Передача параметров по ссылке}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.5}{Определение структур и объединений}{section.1.3}
+\BOOKMARK [0][-]{chapter.2}{Отладчики и устройство отладчика}{}
+\BOOKMARK [1][-]{section*.5}{Intro}{chapter.2}
+\BOOKMARK [1][-]{section.2.1}{Регистры общего назначения центрального процессора}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Стек}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{События отладчика}{chapter.2}
+\BOOKMARK [1][-]{section.2.4}{Точки останова}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.4.1}{Программные точки останова}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.2}{Аппаратные точки останова}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.3}{Точки останова памяти}{section.2.4}
+\BOOKMARK [0][-]{chapter.3}{Создание отладчика под Windows}{}
+\BOOKMARK [0][-]{chapter.4}{PyDbg - Windows отладчик на чистом Python}{}
+\BOOKMARK [0][-]{chapter.5}{Immunity Debugger}{}
+\BOOKMARK [0][-]{chapter.6}{Hooking}{}
+\BOOKMARK [0][-]{chapter.7}{DLL и Code Injection}{}
+\BOOKMARK [0][-]{chapter.8}{Fuzzing}{}
+\BOOKMARK [0][-]{chapter.9}{Sulley}{}
+\BOOKMARK [0][-]{chapter.10}{Фаззинг драйверов Windows}{}
+\BOOKMARK [0][-]{chapter.11}{IDAPython}{}
+\BOOKMARK [0][-]{chapter.12}{PyEmu}{}
